@@ -41,9 +41,6 @@ PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
 IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 >
-> Additionally, **before using any Institute provided resources - you must agree to the statement below**:
->
-> Any user of this service must comply with all Institute and Board of Regents policies, including the [Acceptable Use Policy, Cyber Security Policy and Data Privacy Policy](http://b.gatech.edu/it-policies). While Georgia Tech upholds a commitment to respecting the privacy expectations of all employees and students, please be aware that any electronic information transmitted over or stored in Georgia Tech systems and networks is subject to audit, inspection, and disclosure to fulfill administrative or legal obligations. It is important to note that any personal communications and files transmitted over or stored on Georgia Tech systems are also subject to the same regulations as business communications.
 
 **_TL;DR_** Here's what the GPLv3 entails:
 ```markdown
