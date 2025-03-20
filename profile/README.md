@@ -1,4 +1,4 @@
-# 🤖 Fedele_AI Lab @ Georgia Tech
+# 🤖 Fedele_AI Lab
 
 Welcome to the official GitHub for the AI Lab!
 
@@ -64,5 +64,5 @@ For inquiries, research opportunities, or discussions, reach out via:
 
 📧 Email: [fedele@gatech.edu](mailto:fedele@gatech.edu)
 
-🌐 Website: [GT Directory](https://ce.gatech.edu/directory/person/francesco-fedele), [2025-2026 Interest Form](https://forms.office.com/r/Q2Y79w5Uru)
+🌐 [2025-2026 Interest Form](https://forms.office.com/r/Q2Y79w5Uru)
 
