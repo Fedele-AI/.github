@@ -1,6 +1,6 @@
 # 🤖 Fedele_AI Lab @ Georgia Tech
 
-Welcome to the official GitHub for the AI Lab at Georgia Tech!
+Welcome to the official GitHub for the AI Lab!
 
 - Overseen by: [**Dr. Francesco Fedele**](https://ce.gatech.edu/directory/person/francesco-fedele).
 - Head TA: [**Alex Jenkins**](https://alexj.io).
@@ -66,5 +66,3 @@ For inquiries, research opportunities, or discussions, reach out via:
 
 🌐 Website: [GT Directory](https://ce.gatech.edu/directory/person/francesco-fedele), [2025-2026 Interest Form](https://forms.office.com/r/Q2Y79w5Uru)
 
-
-📍 [College of Engineering](https://coe.gatech.edu/) ([Mason 3140B](https://maps.app.goo.gl/oWqTUNSozhUpbnm6A)) @ [Georgia Institute of Technology](https://www.gatech.edu/) - Atlanta, Georgia 🍑
