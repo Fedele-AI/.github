@@ -1,5 +1,7 @@
 # 🤖 Fedele_AI Lab
 
+![](https://view-counter.tobyhagan.com/?user={Fedele-AI})
+
 Welcome to the official GitHub for the AI Lab!
 
 - Overseen by: [**Dr. Francesco Fedele**](https://ce.gatech.edu/directory/person/francesco-fedele).
